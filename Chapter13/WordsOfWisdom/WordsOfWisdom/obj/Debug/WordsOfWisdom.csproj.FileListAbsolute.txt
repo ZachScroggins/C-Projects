@@ -1,0 +1,9 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\bin\Debug\WordsOfWisdom.exe.config
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\bin\Debug\WordsOfWisdom.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\bin\Debug\WordsOfWisdom.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\obj\Debug\WordsOfWisdom.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\obj\Debug\WordsOfWisdom.Form1.resources
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\obj\Debug\WordsOfWisdom.Properties.Resources.resources
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\obj\Debug\WordsOfWisdom.csproj.GenerateResource.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\obj\Debug\WordsOfWisdom.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter13\WordsOfWisdom\WordsOfWisdom\obj\Debug\WordsOfWisdom.pdb

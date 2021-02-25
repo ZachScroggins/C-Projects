@@ -1,0 +1,10 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.exe.config
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\bin\Debug\TestsInteractiveGUI.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.TestScoreAverage.resources
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.Properties.Resources.resources
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csproj.GenerateResource.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter3\TestsInteractiveGUI\TestsInteractiveGUI\obj\Debug\TestsInteractiveGUI.pdb

@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\netcoreapp3.0\TestSoccerPlayer.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\netcoreapp3.0\TestSoccerPlayer.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\netcoreapp3.0\TestSoccerPlayer.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\netcoreapp3.0\TestSoccerPlayer.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\netcoreapp3.0\TestSoccerPlayer.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\netcoreapp3.0\TestSoccerPlayer.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\netcoreapp3.0\TestSoccerPlayer.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\netcoreapp3.0\TestSoccerPlayer.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\netcoreapp3.0\TestSoccerPlayer.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\netcoreapp3.0\TestSoccerPlayer.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\netcoreapp3.0\TestSoccerPlayer.pdb

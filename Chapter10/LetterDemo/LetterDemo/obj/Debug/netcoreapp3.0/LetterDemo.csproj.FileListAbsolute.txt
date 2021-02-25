@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\bin\Debug\netcoreapp3.0\LetterDemo.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\bin\Debug\netcoreapp3.0\LetterDemo.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\bin\Debug\netcoreapp3.0\LetterDemo.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\bin\Debug\netcoreapp3.0\LetterDemo.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\bin\Debug\netcoreapp3.0\LetterDemo.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\bin\Debug\netcoreapp3.0\LetterDemo.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\obj\Debug\netcoreapp3.0\LetterDemo.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\obj\Debug\netcoreapp3.0\LetterDemo.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\obj\Debug\netcoreapp3.0\LetterDemo.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\obj\Debug\netcoreapp3.0\LetterDemo.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter10\LetterDemo\LetterDemo\obj\Debug\netcoreapp3.0\LetterDemo.pdb

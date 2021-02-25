@@ -1,0 +1,11 @@
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\tempCodeRunnerFile.exe
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\tempCodeRunnerFile.deps.json
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\tempCodeRunnerFile.runtimeconfig.json
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\tempCodeRunnerFile.runtimeconfig.dev.json
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\tempCodeRunnerFile.dll
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\tempCodeRunnerFile.pdb
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\tempCodeRunnerFile.csprojAssemblyReference.cache
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\tempCodeRunnerFile.AssemblyInfoInputs.cache
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\tempCodeRunnerFile.AssemblyInfo.cs
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\tempCodeRunnerFile.dll
+c:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\tempCodeRunnerFile.pdb

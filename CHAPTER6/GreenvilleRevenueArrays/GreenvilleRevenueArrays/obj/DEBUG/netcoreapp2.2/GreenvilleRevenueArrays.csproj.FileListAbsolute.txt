@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\bin\Debug\netcoreapp2.2\GreenvilleRevenueArrays.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\bin\Debug\netcoreapp2.2\GreenvilleRevenueArrays.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\bin\Debug\netcoreapp2.2\GreenvilleRevenueArrays.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\bin\Debug\netcoreapp2.2\GreenvilleRevenueArrays.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\bin\Debug\netcoreapp2.2\GreenvilleRevenueArrays.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\obj\Debug\netcoreapp2.2\GreenvilleRevenueArrays.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\obj\Debug\netcoreapp2.2\GreenvilleRevenueArrays.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\obj\Debug\netcoreapp2.2\GreenvilleRevenueArrays.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\obj\Debug\netcoreapp2.2\GreenvilleRevenueArrays.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\obj\Debug\netcoreapp2.2\GreenvilleRevenueArrays.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter6\GreenvilleRevenueArrays\GreenvilleRevenueArrays\obj\Debug\netcoreapp2.2\GreenvilleRevenueArrays.pdb

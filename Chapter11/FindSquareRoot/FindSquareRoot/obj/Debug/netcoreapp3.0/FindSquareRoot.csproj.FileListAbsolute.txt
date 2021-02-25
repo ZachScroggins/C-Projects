@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\FindSquareRoot.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\FindSquareRoot.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\FindSquareRoot.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\FindSquareRoot.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\FindSquareRoot.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\bin\Debug\netcoreapp3.0\FindSquareRoot.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\FindSquareRoot.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\FindSquareRoot.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\FindSquareRoot.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\FindSquareRoot.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter11\FindSquareRoot\FindSquareRoot\obj\Debug\netcoreapp3.0\FindSquareRoot.pdb

@@ -1,0 +1,8 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe.config
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.Properties.Resources.resources
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csproj.GenerateResource.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\MarshallsRevenue\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.pdb

@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\bin\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\bin\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\bin\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\bin\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\bin\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\obj\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\obj\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\obj\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\obj\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\obj\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter4\GreenvilleRevenueDecisions\GreenvilleRevenueDecisions\obj\Debug\netcoreapp2.2\GreenvilleRevenueDecisions.pdb

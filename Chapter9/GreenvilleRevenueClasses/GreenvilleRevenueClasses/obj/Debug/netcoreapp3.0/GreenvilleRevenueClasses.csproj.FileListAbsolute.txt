@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\bin\Debug\netcoreapp3.0\GreenvilleRevenueClasses.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\bin\Debug\netcoreapp3.0\GreenvilleRevenueClasses.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\bin\Debug\netcoreapp3.0\GreenvilleRevenueClasses.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\bin\Debug\netcoreapp3.0\GreenvilleRevenueClasses.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\bin\Debug\netcoreapp3.0\GreenvilleRevenueClasses.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\bin\Debug\netcoreapp3.0\GreenvilleRevenueClasses.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\obj\Debug\netcoreapp3.0\GreenvilleRevenueClasses.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\obj\Debug\netcoreapp3.0\GreenvilleRevenueClasses.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\obj\Debug\netcoreapp3.0\GreenvilleRevenueClasses.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\obj\Debug\netcoreapp3.0\GreenvilleRevenueClasses.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter9\GreenvilleRevenueClasses\GreenvilleRevenueClasses\obj\Debug\netcoreapp3.0\GreenvilleRevenueClasses.pdb

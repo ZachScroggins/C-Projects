@@ -1,0 +1,10 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\netcoreapp2.2\GreenvilleRevenueMethods.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\netcoreapp2.2\GreenvilleRevenueMethods.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\netcoreapp2.2\GreenvilleRevenueMethods.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\netcoreapp2.2\GreenvilleRevenueMethods.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\bin\Debug\netcoreapp2.2\GreenvilleRevenueMethods.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\netcoreapp2.2\GreenvilleRevenueMethods.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\netcoreapp2.2\GreenvilleRevenueMethods.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\netcoreapp2.2\GreenvilleRevenueMethods.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\netcoreapp2.2\GreenvilleRevenueMethods.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter7\GreenvilleRevenueMethods\GreenvilleRevenueMethods\obj\Debug\netcoreapp2.2\GreenvilleRevenueMethods.pdb

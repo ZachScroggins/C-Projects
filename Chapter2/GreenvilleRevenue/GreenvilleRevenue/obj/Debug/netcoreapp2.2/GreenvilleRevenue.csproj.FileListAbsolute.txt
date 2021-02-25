@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp2.2\GreenvilleRevenue.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp2.2\GreenvilleRevenue.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp2.2\GreenvilleRevenue.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp2.2\GreenvilleRevenue.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\bin\Debug\netcoreapp2.2\GreenvilleRevenue.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp2.2\GreenvilleRevenue.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp2.2\GreenvilleRevenue.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp2.2\GreenvilleRevenue.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp2.2\GreenvilleRevenue.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp2.2\GreenvilleRevenue.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter2\GreenvilleRevenue\GreenvilleRevenue\obj\Debug\netcoreapp2.2\GreenvilleRevenue.pdb

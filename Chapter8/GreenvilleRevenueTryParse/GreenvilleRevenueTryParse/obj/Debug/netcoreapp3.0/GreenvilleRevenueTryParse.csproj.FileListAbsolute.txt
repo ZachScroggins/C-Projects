@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\bin\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\bin\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\bin\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\bin\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\bin\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\bin\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\obj\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\obj\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\obj\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\obj\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\GreenvilleRevenueTryParse\GreenvilleRevenueTryParse\obj\Debug\netcoreapp3.0\GreenvilleRevenueTryParse.pdb

@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\bin\Debug\netcoreapp2.2\BurmaShave.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\bin\Debug\netcoreapp2.2\BurmaShave.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\bin\Debug\netcoreapp2.2\BurmaShave.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\bin\Debug\netcoreapp2.2\BurmaShave.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\bin\Debug\netcoreapp2.2\BurmaShave.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\obj\Debug\netcoreapp2.2\BurmaShave.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\obj\Debug\netcoreapp2.2\BurmaShave.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\obj\Debug\netcoreapp2.2\BurmaShave.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\obj\Debug\netcoreapp2.2\BurmaShave.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\obj\Debug\netcoreapp2.2\BurmaShave.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\BurmaShave\BurmaShave\obj\Debug\netcoreapp2.2\BurmaShave.pdb

@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\bin\Debug\netcoreapp2.2\GreenvilleRevenueLooping.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\bin\Debug\netcoreapp2.2\GreenvilleRevenueLooping.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\bin\Debug\netcoreapp2.2\GreenvilleRevenueLooping.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\bin\Debug\netcoreapp2.2\GreenvilleRevenueLooping.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\bin\Debug\netcoreapp2.2\GreenvilleRevenueLooping.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\obj\Debug\netcoreapp2.2\GreenvilleRevenueLooping.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\obj\Debug\netcoreapp2.2\GreenvilleRevenueLooping.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\obj\Debug\netcoreapp2.2\GreenvilleRevenueLooping.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\obj\Debug\netcoreapp2.2\GreenvilleRevenueLooping.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\obj\Debug\netcoreapp2.2\GreenvilleRevenueLooping.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter5\GreenvilleRevenueLooping\GreenvilleRevenueLooping\obj\Debug\netcoreapp2.2\GreenvilleRevenueLooping.pdb

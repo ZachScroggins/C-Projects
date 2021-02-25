@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\bin\Debug\netcoreapp2.2\Hello.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\bin\Debug\netcoreapp2.2\Hello.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\bin\Debug\netcoreapp2.2\Hello.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\bin\Debug\netcoreapp2.2\Hello.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\bin\Debug\netcoreapp2.2\Hello.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\obj\Debug\netcoreapp2.2\Hello.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\obj\Debug\netcoreapp2.2\Hello.csproj.CoreCompileInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\obj\Debug\netcoreapp2.2\Hello.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\obj\Debug\netcoreapp2.2\Hello.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\obj\Debug\netcoreapp2.2\Hello.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Hello\Hello\obj\Debug\netcoreapp2.2\Hello.pdb

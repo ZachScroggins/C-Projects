@@ -1,0 +1,11 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\bin\Debug\netcoreapp3.0\SortWords.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\bin\Debug\netcoreapp3.0\SortWords.deps.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\bin\Debug\netcoreapp3.0\SortWords.runtimeconfig.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\bin\Debug\netcoreapp3.0\SortWords.runtimeconfig.dev.json
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\bin\Debug\netcoreapp3.0\SortWords.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\bin\Debug\netcoreapp3.0\SortWords.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\obj\Debug\netcoreapp3.0\SortWords.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\obj\Debug\netcoreapp3.0\SortWords.AssemblyInfoInputs.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\obj\Debug\netcoreapp3.0\SortWords.AssemblyInfo.cs
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\obj\Debug\netcoreapp3.0\SortWords.dll
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter8\SortWords\SortWords\obj\Debug\netcoreapp3.0\SortWords.pdb

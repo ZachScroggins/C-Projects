@@ -1,0 +1,9 @@
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\bin\Debug\DayNight.exe.config
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\bin\Debug\DayNight.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\bin\Debug\DayNight.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\obj\Debug\DayNight.csprojAssemblyReference.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\obj\Debug\DayNight.Properties.Resources.resources
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\obj\Debug\DayNight.csproj.GenerateResource.cache
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\obj\Debug\DayNight.exe
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\obj\Debug\DayNight.pdb
+C:\Users\scrog\Documents\NCTC\Fall 2019\Computer Programming\Projects\Chapter12\DayNight\DayNight\obj\Debug\DayNight.DayNightForm.resources
